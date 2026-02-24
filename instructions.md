@@ -1,6 +1,8 @@
-# 🛠️ Setup Instructions: The Python Development Sandbox
+## 🛠️ Setup Instructions: The Python Development Sandbox
 
-Welcome to the **Professional Growth Engine** development environment. In this lab, you are not just a student; you are a Systems Integrator. You will not be "running" code provided to you—you will be building it from scratch in your own workspace.
+Welcome to the **Professional Growth Engine** development environment. In this lab, you are not just a student; you are a Systems Integrator. Following this **Standard Operating Procedure (SOP)** ensures your environment is stable and professional. 
+
+You will not be "running" code provided to you—you will be building it from scratch in your own workspace.
 
 Follow these steps to initialize your environment.
 
