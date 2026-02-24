@@ -9,9 +9,9 @@ Follow these steps to initialize your environment.
 ## Step 1: The Directory Structure
 Before starting, ensure your local repository looks like this. You will notice the `/workspace` folder is where you will spend 90% of your time.
 
-- `/reference`: Contains the "Gold Standard" code for verification.
-- `/workspace`: This is your personal sandbox. **You write your code here.**
-- `/PythonSandbox`: (To be created) This will house your virtual environment and dependencies.
+* `/reference`: Contains the "Gold Standard" code for verification.
+* `/workspace`: This is your personal sandbox. **You write your code here.**
+* `/PythonSandbox`: (To be created) This will house your virtual environment and dependencies.
 
 ---
 
