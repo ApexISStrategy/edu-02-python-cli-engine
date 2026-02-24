@@ -6,11 +6,9 @@ Welcome to your first build. Now that your sandbox is active per the Standard Op
 ## Step 1: Initialize your Week-1 Workspace
 Before writing logic, you must prepare your environment for this specific module.
 
-Ensure you are in the /Week-1 directory at the root of the repository.
-
-Create a new file named daily_log.py.
-
-Open the file in your preferred editor (e.g., VS Code).
+1. Ensure you are in the `/Week-1` directory at the root of the repository.
+2. Create a new file named `daily_log.py`.
+3. Open the file in your preferred editor (e.g., VS Code).
 
 ---
 
