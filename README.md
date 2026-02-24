@@ -13,11 +13,15 @@ To engineer a Python-based CLI engine that demonstrates:
 * **Modular Logic:** Separation between the core engine and user workspace.
 * **The Apex Standard:** High-fidelity documentation and clean code execution.
 
+---
+
 ## 📂 Repository Structure
 * `/reference`: Contains the complete code for debugging.
 * `/workspace`: Your active development sandbox. This is where your code lives.
 * `/PythonSandbox`: This will house your virtual Python environment and dependencies.
 * `instructions.md:` The technical SOP for environment initialization.
+
+---
 
 ## 🛠️ Getting Started
 This repository does not use this README for technical setup. To initialize your development sandbox and begin the lab, follow the **Standard Operating Procedure (SOP)** found here:
@@ -25,6 +29,8 @@ This repository does not use this README for technical setup. To initialize your
 👉 **[View instructions.md](./instructions.md)**
 
 The SOP provides the exact sequence required to stabilize your environment before you begin the build process.
+
+---
 
 ## 🛡️ The Apex Standard
 "We share logic on GitHub, not environments. We type code to build muscle memory. We debug like professionals."
